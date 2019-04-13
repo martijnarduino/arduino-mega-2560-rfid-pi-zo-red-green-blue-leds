@@ -1,0 +1,2 @@
+# arduino-mega-2560-rfid-pi-zo-red-green-blue-leds
+welkom bij mijn eerst post op github  LET OP WEERSTANDEN BIJ DE PLUS VAN DE LED'S  piezo plus 4 (PWM) gnd gnd  beelscherm scl 21 communication sda 20 communication vcc 5v gnd gnd  led rood 8 gnd gnd led blauw 6 gnd gnd led groen 3 gnd gnd  servo 5v gnd gnd 7 (PWM)  3,3v 3,3v rst 5 (PWM) gnd gnd miso 50 (DIGITAL) mosi 51 (DIGITAL) sck 52 (DIGITAL) sda 53 (DIGITAL)
